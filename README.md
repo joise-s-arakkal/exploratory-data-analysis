@@ -1,5 +1,7 @@
 # Task 2: Exploratory Data Analysis (EDA)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XYCNzn-FQyWDIyXu5zfDCWimQMDioEeJ?usp=sharing)
+
 This repository contains my work for **Task 2 of the Elevate Labs Internship**. The objective of this task was to perform Exploratory Data Analysis (EDA) on the Titanic dataset to understand the data, identify patterns, and make visual inferences.
 
 ---
@@ -29,6 +31,7 @@ This repository contains my work for **Task 2 of the Elevate Labs Internship**. 
 - **Source:** [Kaggle Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 
 ---
+
 
 ## 🔍 Steps Performed
 

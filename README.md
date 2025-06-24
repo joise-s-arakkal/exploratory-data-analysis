@@ -67,7 +67,14 @@ This repository contains my work for **Task 2 of the Elevate Labs Internship**. 
 
 ## ✅ Final Inference
 
-- Gender and passenger class significantly influence survival.
-- Higher fare-paying passengers tended to survive more.
-- Data is suitable for building predictive ML models with selected features.
+- More females survived than males
+- Survival rate for females was significantly higher → Gender was an important factor
+- Passengers in 1st class had the highest survival rate
+- Passengers in 3rd class had the lowest → Pclass correlated with survival
+- Most passengers were young adults
+- Children and young adults had relatively higher survival rates → Age might influence survival
+- Survivors paid higher average fares
+- Likely tied to being in higher classes → Fare is indirectly linked to survival
+- `Fare` and `Pclass` show moderate correlation with `Survived`
+- `Age` and `Survived` have weak correlation → Some features are stronger predictors than others
 
